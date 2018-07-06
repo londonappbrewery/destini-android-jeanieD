@@ -15,8 +15,7 @@ public class MainActivity extends AppCompatActivity {
     Button mButtonBottom;
     int mStoryIndex;
 
-    //Create an array with StoryChoice constructor to set button text and destinations
-
+    
 
 
     @Override
